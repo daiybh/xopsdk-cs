@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xopsdk-cs", "xopsdk-cs.csproj", "{4458A446-8BAC-478D-95F7-1B0E17E74948}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4458A446-8BAC-478D-95F7-1B0E17E74948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4458A446-8BAC-478D-95F7-1B0E17E74948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4458A446-8BAC-478D-95F7-1B0E17E74948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4458A446-8BAC-478D-95F7-1B0E17E74948}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
